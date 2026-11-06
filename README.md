@@ -14,7 +14,7 @@
 
 ## About
 
-I'm **Sumanyu**, a competitive programmer and software builder based in **Bengaluru, India**. I study at **PES University (2024–2028)** and founded **HLH Labs**.
+I'm **Sumanyu**, a competitive programmer and software builder based in **Bengaluru, India**. I study at **PES University (2024–2028)** and founded **RENEWATT and GigabitMind**.
 
 I enjoy the precision of **C/C++**, the practicality of **Python**, and the challenge of turning AI ideas into software people can use. My projects span desktop assistants, developer tools, privacy, and intelligent workflows.
 
